@@ -8,8 +8,9 @@ import entities.Product;
 public class ProgramJava {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		Locale.setDefault(Locale.US);
+
 		Scanner sc = new Scanner(System.in);
 
 		
